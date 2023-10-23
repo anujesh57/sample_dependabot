@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
+    "mongoose": "4.13.20",
     "express": "4.17.2",
     "lodash": "4.17.14"
   },
